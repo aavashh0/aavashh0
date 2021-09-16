@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently developing **coding skills**
 
-- 👨‍💻 All of my projects are available at [portfolio loading...](portfolio loading...)
+- 👨‍💻 All of my projects are available at (portfolio loading...)
 
 - 📫 How to reach me **aavashhganezu0110@gmail.com**
 
