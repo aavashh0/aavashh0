@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aavash</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">hii-ya,I'm "Aa v a s h"</h1>
+<h3 align="center">A passionate frontend developer from other world...</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently developing **coding skills**
+
+- 👨‍💻 All of my projects are available at [portfolio loading...](portfolio loading...)
 
 - 📫 How to reach me **aavashhganezu0110@gmail.com**
 
