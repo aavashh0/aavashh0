@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently developing **coding skills**
 
-- 👨‍💻 All of my projects are available at portfolio loading...
+- 👨‍💻 All of my projects are available at [aavashh portfolio loading...]
 
 - 📫 How to reach me **aavashhganezu0110@gmail.com**
 
-- ⚡ Fun fact **I think I am funny xD ''**
+- ⚡ Fun fact **I think I am huge chocoholic xD ''**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
