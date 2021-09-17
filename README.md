@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **javascript framework and libraries**
 
-- 👨‍💻 All of my projects are available at [aavashh portfolio loading...](aavashh portfolio loading...)
+- 👨‍💻 All of my projects are available at (aavashh portfolio loading...)
 
 - 📫 How to reach me **aavashhganezu0110@gmail.com**
 
-- ⚡ Fun fact **I think I am funny xD ''**
+- ⚡ Fun fact **I think I am chocoholic'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
